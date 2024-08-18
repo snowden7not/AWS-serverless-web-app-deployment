@@ -1,1 +1,3 @@
-<iframe width="640" height="360" src="https://www.youtube.com/embed/7v1fEYDpCqU" title="AWS Serverless webApp deployment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![video](https://img.youtube.com/vi/7v1fEYDpCqU/0.jpg)](https://www.youtube.com/watch?v=7v1fEYDpCqU)
+<br/>
+Watch recorded video after deployment on aws cloudfront.
